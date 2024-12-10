@@ -1,0 +1,21 @@
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\Activity 2.csproj.AssemblyReference.cache
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\App.g.cs
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\Activity 2_MarkupCompile.cache
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\Activity 2_MarkupCompile.lref
+Z:\visual studio\Activity 2\Activity 2\bin\Debug\net6.0-windows\Activity 2.exe
+Z:\visual studio\Activity 2\Activity 2\bin\Debug\net6.0-windows\Activity 2.deps.json
+Z:\visual studio\Activity 2\Activity 2\bin\Debug\net6.0-windows\Activity 2.runtimeconfig.json
+Z:\visual studio\Activity 2\Activity 2\bin\Debug\net6.0-windows\Activity 2.dll
+Z:\visual studio\Activity 2\Activity 2\bin\Debug\net6.0-windows\Activity 2.pdb
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\Activity 2.g.resources
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\Activity 2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\Activity 2.AssemblyInfoInputs.cache
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\Activity 2.AssemblyInfo.cs
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\Activity 2.csproj.CoreCompileInputs.cache
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\Activity 2.dll
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\refint\Activity 2.dll
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\Activity 2.pdb
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\Activity 2.genruntimeconfig.cache
+Z:\visual studio\Activity 2\Activity 2\obj\Debug\net6.0-windows\ref\Activity 2.dll
